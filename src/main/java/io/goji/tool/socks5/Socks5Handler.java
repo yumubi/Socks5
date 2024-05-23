@@ -16,6 +16,7 @@ public class Socks5Handler {
         this.socketChannel = socketChannel;
 
 
+
     }
 
     //The client connects to the server, and sends a version identifier/method selection message:
